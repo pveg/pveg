@@ -1,2 +1,2 @@
 Hi, I'm Paulo!
-I'm currently learning Python
+I'm continously learning Python and studying to be a web developer.
