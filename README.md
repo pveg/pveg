@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor!</h1>
-<h3 align="center">A passionate learner that decided to adventure in the code world 🧑🏻‍💻</h3>
+<h3 align="center"> A passionate learner who decided to make a complete twist in his career and start all from the beginning in the coding world.🧑🏻‍💻</h3>
 
 - 🌱 I’m currently learning **Web Development: JS, HTML and CSS**
 
