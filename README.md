@@ -21,3 +21,7 @@
 
 <h3 align="left">Coding practice and challenges:</h3>
 <a href="https://www.codewars.com/users/pveg" target="blank"><img align="center" src="https://www.codewars.com/users/pveg/badges/large" alt="pveg" height="40" width="400" /></a>
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![pveg's github stats](https://github-readme-stats.vercel.app/api?username=pveg&show_icons=true&theme=nightowl)
