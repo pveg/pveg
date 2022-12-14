@@ -25,8 +25,8 @@
 
 <h3 align="left">Stats:</h3>
 
-![pveg's github stats](https://github-readme-stats.vercel.app/api?username=pveg&show_icons=true&theme=nightowl)
+![pveg's github stats](https://github-readme-stats.vercel.app/api?username=pveg&show_icons=true&theme=nightowl) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pveg&show_icons=true&locale=en&layout=%20alt="pveg" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pveg&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
