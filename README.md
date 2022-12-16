@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor!</h1>
 <h3 align="center"> A passionate learner who decided to make a complete twist in his career and start all over from the beginning in the coding world.🧑🏻‍💻</h3>
 
-- 🌱 I’m currently learning **Web Development: JS, HTML and CSS**
+- 🌱 I’m currently learning **Mobile Development: Flutter and Dart**
 
 - 📝 I regularly write articles on [https://medium.com/@pveg](https://medium.com/@pveg)
 
